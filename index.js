@@ -7,6 +7,7 @@ class heroi {
     this.atanque
     }
 
+    //Função dentro da classe
     atacar(){
         if(this.tipo === "mago"){
             this.ataque = "magia"
@@ -24,6 +25,8 @@ class heroi {
     }
 }
 
+//Objeto
 let ataqueHeroi = new heroi("Felipão" , 25 , "ninja")
 
+//Acionamento
 ataqueHeroi.atacar()
