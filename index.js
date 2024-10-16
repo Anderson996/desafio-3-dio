@@ -4,7 +4,7 @@ class heroi {
     this.nome = nome
     this.idade = idade
     this.tipo = tipo
-    this.atanque
+    this.ataque
     }
 
     //Função dentro da classe
