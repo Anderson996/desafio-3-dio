@@ -2,7 +2,7 @@
 class heroi {
     constructor(nome , idade , tipo){
     this.nome = nome
-    this.dade = idade
+    this.idade = idade
     this.tipo = tipo
     this.atanque
     }
